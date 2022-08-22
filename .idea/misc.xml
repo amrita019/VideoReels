@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/e4412aa397d7930d7187b583a8880c42/transformed/exoplayer-ui-2.18.1/res/layout/exo_player_control_view.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_forward_10_24.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable/ic_baseline_replay_10_24.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2702672322591146" />
+        <entry key="app/src/main/res/layout/exo_player_control_view.xml" value="0.21930819780398642" />
+        <entry key="app/src/main/res/layout/item_pull_request.xml" value="0.28125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
